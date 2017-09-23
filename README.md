@@ -1,14 +1,4 @@
----
-layout: post
-title:  "版本管理工具Git入门"
-categories: Tools
-date:   2017-09-23 17:48:05
-author: Logan
-tags:  Git
----
-
-* content
-{:toc}
+[TOC]
 
 # 版本管理工具发展历史
 
